@@ -5,7 +5,7 @@
 --customer_key|         ingest_date|customer_id|member_id|first_name|last_name|premium_status|age|         state|country
 
 CREATE EXTERNAL TABLE IF NOT EXISTS lending.customer_external(
-customer_key STRING,
+customer_key STRING,o
 ingest_date TIMESTAMP,
 customer_id STRING,
 member_id STRING,
