@@ -18,12 +18,6 @@
 
 
 
-
-
-
-
-
-
 # Read account data :
 
 from pyspark.sql.types import StructType,StructField,IntegerType,StringType,DoubleType,FloatType,DateType
